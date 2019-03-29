@@ -15,6 +15,7 @@
 		5420E58E22434253003BAD56 /* FeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5420E58D22434253003BAD56 /* FeedViewController.swift */; };
 		5420E59022434D75003BAD56 /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5420E58F22434D75003BAD56 /* CameraViewController.swift */; };
 		5420E5922243E253003BAD56 /* PostCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5420E5912243E253003BAD56 /* PostCell.swift */; };
+		547124A6224DA64500743337 /* CommentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 547124A5224DA64500743337 /* CommentCell.swift */; };
 		5B8DB9788171DA4F418A0BE0 /* Pods_Instaclone.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 986706F2BCCF634345C9266D /* Pods_Instaclone.framework */; };
 /* End PBXBuildFile section */
 
@@ -29,6 +30,7 @@
 		5420E58D22434253003BAD56 /* FeedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedViewController.swift; sourceTree = "<group>"; };
 		5420E58F22434D75003BAD56 /* CameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
 		5420E5912243E253003BAD56 /* PostCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostCell.swift; sourceTree = "<group>"; };
+		547124A5224DA64500743337 /* CommentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentCell.swift; sourceTree = "<group>"; };
 		697D2F8E0BA89AF2F9CFFB42 /* Pods-Instaclone.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Instaclone.release.xcconfig"; path = "Target Support Files/Pods-Instaclone/Pods-Instaclone.release.xcconfig"; sourceTree = "<group>"; };
 		986706F2BCCF634345C9266D /* Pods_Instaclone.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Instaclone.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		CA75B509DAC7DAC5BD22B948 /* Pods-Instaclone.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Instaclone.debug.xcconfig"; path = "Target Support Files/Pods-Instaclone/Pods-Instaclone.debug.xcconfig"; sourceTree = "<group>"; };
@@ -76,6 +78,7 @@
 				5420E58D22434253003BAD56 /* FeedViewController.swift */,
 				5420E58F22434D75003BAD56 /* CameraViewController.swift */,
 				5420E5912243E253003BAD56 /* PostCell.swift */,
+				547124A5224DA64500743337 /* CommentCell.swift */,
 			);
 			path = Instaclone;
 			sourceTree = "<group>";
@@ -228,6 +231,7 @@
 				5420E58E22434253003BAD56 /* FeedViewController.swift in Sources */,
 				5420E57A22433859003BAD56 /* AppDelegate.swift in Sources */,
 				5420E5922243E253003BAD56 /* PostCell.swift in Sources */,
+				547124A6224DA64500743337 /* CommentCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
